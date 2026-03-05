@@ -1,10 +1,7 @@
 # CHECKI MERCHANT PORTAL – TERMS & CONDITIONS / TERMS OF BUSINESS SERVICES  
-**Version:** 1.0  
 **Effective Date:** 5 March 2026  
 **Company:** Checki Limited (Hong Kong) (“Checki”, “we”, “us”, “our”)  
-**Business Support Email:** admin@checki.hk  
-**Privacy Email:** admin@checki.hk  
-**Merchant Portal URL:** merchant.checki.hk  
+**Email:** admin@checki.hk
 
 These Terms & Conditions and Terms of Business Services (together, the “**Business Terms**”) govern access to and use of Checki’s merchant onboarding portal / B2B web application and any merchant tools, dashboards, and business modules we make available now or in the future (the “**Merchant Portal**” or “**Business Services**”).
 
@@ -63,7 +60,7 @@ You are responsible for all actions taken via your account(s) and by your Author
 You must provide complete, accurate, and current information and promptly update it.
 
 ### 4.4 Security  
-You must keep credentials secure and notify us promptly at **[●]** of suspected unauthorized access, compromise, or security incidents.
+You must keep credentials secure and notify us promptly at email of suspected unauthorized access, compromise, or security incidents.
 
 ---
 
@@ -276,7 +273,7 @@ We may suspend, restrict, delist, disable modules, or terminate access immediate
 - breach of this Agreement.  
 
 ### 15.2 Termination by you  
-You may stop using Business Services at any time. If you want account deletion or deactivation, contact **[●]**. Certain information may remain visible where lawful/necessary (e.g., historical user reviews, audit logs) subject to the Privacy Policy.
+You may stop using Business Services at any time. If you want account deletion or deactivation, contact email. Certain information may remain visible where lawful/necessary (e.g., historical user reviews, audit logs) subject to the Privacy Policy.
 
 ### 15.3 Survival  
 Clauses on IP licences, confidentiality, disclaimers, limitation of liability, indemnity, and dispute resolution survive termination.
